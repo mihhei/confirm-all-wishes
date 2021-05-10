@@ -7,7 +7,7 @@ This application generates wishlists randomly each time you start it. The applic
 Data between components is accessed through context.
 
 ## For starting this project clone it locally with
-git clone https://github.com/mihhei/confirm-all-wishes.
+git clone https://github.com/mihhei/confirm-all-wishes.git .
 
 ## Before runing project install all dependencies in root and client directory using
 npm i
